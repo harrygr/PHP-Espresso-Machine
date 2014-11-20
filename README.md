@@ -9,7 +9,7 @@ An interface and class for an espresso machine.
 
 2. Instantiate and run the machine. Example:
 
-```
+```php
 // Specify our machine's properties
 
 $beansContainerCapacity = 50; // spoons
